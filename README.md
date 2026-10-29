@@ -2,6 +2,21 @@
 
 A lunar-lander-style game developed with Unity and C# while learning game development.
 
+## Gameplay Screenshots
+
+### Main Menu
+![Main Menu](Screenshots/Screenshot%202026-10-29%20175448.png)
+
+### Gameplay 1
+![Gameplay 1](Screenshots/Screenshot%202026-10-29%20175527.png)
+
+### Gameplay 2
+![Gameplay 2](Screenshots/Screenshot%202026-10-29%20175540.png)
+
+### Gameplay 3
+![Gameplay 3](Screenshots/Screenshot%202026-10-29%20175556.png)
+
+
 ## Overview
 
 Lua Lander is a space-themed landing game in which the player controls a lander and attempts to land safely on a landing pad.
